@@ -21,6 +21,7 @@ nav {
   /* align-items: center; */
   justify-content: space-between;
   text-decoration: none;
+  margin: 0 200px;
 }
 nav > ul {
   display: flex;
@@ -42,4 +43,20 @@ nav a {
   color: #181818;
   font-size: 45px;
   font-weight: 800;
+}
+.header {
+  background: #fff8f3;
+}
+.banner {
+  display: flex;
+  padding: 30px 30px 30px 150px;
+  align-items: center;
+}
+.banne-content{
+  
+
+}
+.banner .profile-pic {
+  width: 500px;
+  height: 550px;
 }
