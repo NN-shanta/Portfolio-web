@@ -163,10 +163,11 @@ main section {
   padding: 0px 3px;
 }
 /* Resume section */
-.resume-container {
-}
+/* .resume-container {
+
+} */
 .resume {
-  margin-bottom: 130px;
+  /* margin-bottom: 130px; */
   margin-top: 110px;
 }
 .education-experience-resume {
@@ -175,9 +176,9 @@ main section {
   font-weight: 700;
   margin-bottom: 30px;
 }
-.education {
+/* .education {
 
-}
+} */
 .res-title {
   color: #474747;
   font-size: 25px;
@@ -194,4 +195,8 @@ main section {
 hr {
   width: 555px;
   background: #d1d1d1;
+}
+.download{
+  text-align: center;
+  margin-top: 50px;
 }
